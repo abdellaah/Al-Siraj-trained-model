@@ -1,0 +1,14 @@
+{
+    "u": "you",
+    "y": "you",
+    "ya": "you",
+    "ur": "your",
+    "urs": "yours",
+    "yr": "your",
+    "yrs": "yours",
+    "r": "are",
+    "btw": "by the way",
+    "thnx": "thanks",
+    "plz": "please",
+    "cz": "because"
+}
